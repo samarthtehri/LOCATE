@@ -1,3 +1,4 @@
+## Head to "Fast Demo" section for immediate demo CSE 597
 # LOCATE: Localize and Transfer Object Parts for Weakly Supervised Affordance Grounding
 
 [![arXiv](https://img.shields.io/badge/arXiv-2303.09665-b31b1b.svg)](https://arxiv.org/abs/2303.09665)
@@ -50,6 +51,9 @@ Our pretrained model can be downloaded
 python train.py --data_root <PATH_TO_DATA>
 python test.py --data_root <PATH_TO_DATA> --model_file <PATH_TO_MODEL>
 ```
+# Fast Demo
+The faster method would be to run the notebook on google colab, specifically the 597FinalProject.ipynb notebook
+The weights and custom run's weights are located in this google drive folder: [597 Project](https://drive.google.com/drive/folders/1cgW2i_SkKTn4xbJC6nIvwZEUMbHpmb67?usp=drive_link)
 
 ## Citation
 
