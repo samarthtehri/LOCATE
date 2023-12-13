@@ -54,6 +54,7 @@ python test.py --data_root <PATH_TO_DATA> --model_file <PATH_TO_MODEL>
 # Fast Demo
 The faster method would be to run the notebook on google colab, specifically the 597FinalProject.ipynb notebook
 The weights and custom run's weights are located in this google drive folder: [597 Project](https://drive.google.com/drive/folders/1cgW2i_SkKTn4xbJC6nIvwZEUMbHpmb67?usp=drive_link)
+Note: To run the unseen ones, don't forget to add "--divide Unseen" at the end
 
 ## Citation
 
